@@ -1,1 +1,1 @@
-This is a boilerplate for my own use. This boilerplate uses Next 12 and tailwind
+This is a boilerplate for my own use. This boilerplate uses Next 12 and tailwind in ts
